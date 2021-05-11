@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there 👋
+
 <p align="Center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SanjanaGanegda97&&count_private=true&no-bg-true&theme=darkhub" alt="SanjanaGanegda97" /></a> </p>
 
 <p align="center"><img align="center"
