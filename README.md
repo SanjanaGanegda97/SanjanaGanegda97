@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -  <img src="https://64.media.tumblr.com/f0b90c3385b08226b3437f04ee32f3a6/tumblr_mrav1pLPx11r39x51o1_400.gif" width="100" alt="sanjanaganegoda97" />
 -  <img src="https://data.whicdn.com/images/328098426/original.gif" width="100" alt="sanjanaganegoda97" />
+-  <p align="center"><img align="center" src="https://i.pinimg.com/originals/8d/c4/68/8dc468e9a6bfee504dcce2af8ce6950c.gif" width="200" alt="sanjanaganegoda97" /></p>
 -->
 
 
@@ -22,7 +23,8 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=soft&animation=fadeIn&color=auto&height=200&section=header&text=Hello%20there!&desc=I'm%20Sanjana%20Ganegoda.&fontSize=40&fontAlign=50&fontAlignY=50&descSize=25&descAlign=50&descAlignY=70" /></p>
 
 
-<p align="center"><img align="center" src="https://i.pinimg.com/originals/8d/c4/68/8dc468e9a6bfee504dcce2af8ce6950c.gif" width="200" alt="sanjanaganegoda97" /></p>
+
+<p align="center"><img align="center" src="https://i.pinimg.com/originals/53/95/6c/53956c0a61ed37b0d106908fc23c8071.gif" width="200" alt="sanjanaganegoda97" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanjanaganegoda97&label=Profile%20views&color=0e75b6&style=flat" alt="sanjanaganegoda97" /> </p>
 
 
