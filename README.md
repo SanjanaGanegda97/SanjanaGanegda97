@@ -4,6 +4,7 @@
 **SanjanaGanegda97/SanjanaGanegda97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Sanjana Ganegoda</h1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -19,7 +20,9 @@ Here are some ideas to get you started:
 
 
 
-<p align="center"> <h1 align="center">Hi 👋, I'm Sanjana Ganegoda</h1> </p>
+<p align="center"> 
+<img src="https://capsule-render.vercel.app/api?type=soft&animation=fadeIn&color=auto&height=200&section=header&text=Hello%20there!&desc=I'm%20Sanjana%20Ganegoda.&fontSize=40&fontAlign=50&fontAlignY=50&descSize=25&descAlign=50&descAlignY=70" /></p>
+
 
 
 
