@@ -13,11 +13,25 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-  <img src="https://64.media.tumblr.com/f0b90c3385b08226b3437f04ee32f3a6/tumblr_mrav1pLPx11r39x51o1_400.gif" width="100" alt="sanjanaganegoda97" />
+-  <img src="https://data.whicdn.com/images/328098426/original.gif" width="100" alt="sanjanaganegoda97" />
 -->
-<h1 align="center">Hi 👋, I'm Sanjana Ganegoda</h1>
-<h3 align="center">A responsible, skillful, self learning, dedicated undergraduate with team spirit and leadership qualities who is willing to accept challenges, seeking an opportunity as a trainee software engineer to apply and explore the existing and forthcoming technologies in the field of Information Technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjanaganegoda97&label=Profile%20views&color=0e75b6&style=flat" alt="sanjanaganegoda97" /> </p>
+
+
+<p align="center"> <h1 align="center">Hi 👋, I'm Sanjana Ganegoda</h1> </p>
+
+
+
+
+
+<p align="center"><img align="center" src="https://i.pinimg.com/originals/8d/c4/68/8dc468e9a6bfee504dcce2af8ce6950c.gif" width="200" alt="sanjanaganegoda97" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanjanaganegoda97&label=Profile%20views&color=0e75b6&style=flat" alt="sanjanaganegoda97" /> </p>
+
+
+<h3 align="center">A responsible, skillful, self learning, dedicated undergraduate with team spirit and leadership qualities who is willing to accept challenges.</h3>
+
+
 
 - 🌱 I’m currently learning **React, NodeJs, Firebase, MongoDB.**
 
@@ -25,8 +39,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sanjanaganegoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="sanjanaganegoda" height="30" width="40" /></a>
-<a href="https://fb.com/sanjana sithira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="sanjana sithira" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sanjanaganegoda" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" alt="sanjanaganegoda" height="30" width="40" /></a>
+<a href="https://fb.com/sanjana sithira" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/facebook-logo-png/photos-facebook-logo-png-transparent-background-13.png" alt="sanjana sithira" height="30" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
